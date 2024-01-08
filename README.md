@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaayoung&count_bg=%23FFDDCC&title_bg=%23FEBBCC&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/naayoung)<br/>
+
+---
+
+![1786b119778bb1ca718047c3a20e7285](https://github.com/naayoung/naayoung/assets/19569104/7fd45032-a9a3-43cd-825f-f56c6182d4ba)<br/>
   <strong>🌱LANGUAGE🌱</strong>
   <br/><br/>
   <img src="https://img.shields.io/badge/HtML-E34F26?style=flat-square&logo=HtML5&logoColor=white"/></a>
