@@ -71,6 +71,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=flat-square&logo=Zoom&logoColor=white">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
 
+  <div align=center>
+<h1>💡 Project 💡</h1>
+
+|기간|프로젝트|사용 기술|링크|
+|:---:|:---:|:---:|:---:|
+|2023.10.27~2023.11.10|웹 소켓을 이용한<br>오목 게임 구현<br>|<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=openjdk&logoColor=white">  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Oracle-%23D24939?style=flat-square&logo=oracle&logoColor=black"> | https://github.com/shinhanDSTeamCarrots/OmokJSP |
+|2023.11.13~2023.12.29|건강관리<br>서비스<br>(나당트)| <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=openjdk&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">  <br> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white">| https://github.com/shinhanDSTeamCarrots/CarrotTrainer |
+|2024.01~2024.02|Iot 기반<br>웹 농장 서비스<br>(그린웨이브)| <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-%232E5918?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-%232E5918?style=flat-square&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/mariadb-%23007ACC?style=flat-square&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/redis-%2350162D?style=flat-square&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_EC2-%23e5780c?style=flat-square&logo=Amazon%20EC2&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=black"> | https://github.com/shinhanDSTeamSixSigma/FrontEnd <br> https://github.com/shinhanDSTeamSixSigma/BackEnd |
+<br>
+</div>
+
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sk5046)](https://solved.ac/sk5046)
 <img src="http://mazandi.herokuapp.com/api?handle=sk5046&theme=warm"/>
 ---
